@@ -13,7 +13,7 @@ _Actively using Next, TypeScript, Node.js, and React. In the past used React Nat
     align="left"
     alt="Umakant Patil | Linkedin"
     width="24px"
-    src="https://github.com/umakantp/umakantp/blob/master/files/linkedin.svg"
+    src="https://github.com/umakantp/umakantp/blob/main/files/linkedin.svg"
   />
 </a>
 
@@ -22,7 +22,7 @@ _Actively using Next, TypeScript, Node.js, and React. In the past used React Nat
     align="left"
     alt="Umakant Patil | Twitter"
     width="26px"
-    src="https://github.com/umakantp/umakantp/blob/master/files/twitter.svg"
+    src="https://github.com/umakantp/umakantp/blob/main/files/twitter.svg"
   />
 </a>
 
@@ -31,7 +31,7 @@ _Actively using Next, TypeScript, Node.js, and React. In the past used React Nat
     align="left"
     alt="Umakant Patil | Instagram"
     width="24px"
-    src="https://github.com/umakantp/umakantp/blob/master/files/instagram.svg"
+    src="https://github.com/umakantp/umakantp/blob/main/files/instagram.svg"
   />
 </a>
 
@@ -40,6 +40,6 @@ _Actively using Next, TypeScript, Node.js, and React. In the past used React Nat
     align="left"
     alt="Umakant Patil | Website"
     width="26px"
-    src="https://github.com/umakantp/umakantp/blob/master/files/website.svg"
+    src="https://github.com/umakantp/umakantp/blob/main/files/website.svg"
   />
 </a>
