@@ -1,6 +1,6 @@
 ## Hi there, I'm Umakant! 👋
 
-_Principal Architect. Currently building software & leading tech team at Indexnine Technologies, Pune._
+_Principal Architect. Currently building software & leading tech team at Software company in Pune._
 
 _Actively learning AI and using Next, TypeScript, Node.js, and React. In the past used React Native, PHP, JavaScript, SCSS/Less/Styled Components, Java/Android, and more. Been hands-on in the industry for 15+ years and be here for more._
 
